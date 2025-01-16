@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-win32-arm64-msvc",
+  "name": "@xh-tools/is_ascii-win32-arm64-msvc",
   "version": "0.0.0",
   "os": [
     "win32"

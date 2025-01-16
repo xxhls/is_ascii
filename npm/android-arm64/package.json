@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-android-arm64",
+  "name": "@xh-tools/is_ascii-android-arm64",
   "version": "0.0.0",
   "os": [
     "android"

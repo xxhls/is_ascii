@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-freebsd-x64",
+  "name": "@xh-tools/is_ascii-freebsd-x64",
   "version": "0.0.0",
   "os": [
     "freebsd"

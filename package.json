@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii",
+  "name": "@xh-tools/is_ascii",
   "version": "0.0.0",
   "main": "index.js",
   "types": "index.d.ts",

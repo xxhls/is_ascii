@@ -1,3 +1,3 @@
-# `is_ascii-win32-arm64-msvc`
+# `@xh-tools/is_ascii-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `is_ascii`
+This is the **aarch64-pc-windows-msvc** binary for `@xh-tools/is_ascii`

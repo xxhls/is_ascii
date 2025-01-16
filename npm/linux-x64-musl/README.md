@@ -1,3 +1,3 @@
-# `is_ascii-linux-x64-musl`
+# `@xh-tools/is_ascii-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `is_ascii`
+This is the **x86_64-unknown-linux-musl** binary for `@xh-tools/is_ascii`

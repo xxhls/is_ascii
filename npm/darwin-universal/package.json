@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-darwin-universal",
+  "name": "@xh-tools/is_ascii-darwin-universal",
   "version": "0.0.0",
   "os": [
     "darwin"

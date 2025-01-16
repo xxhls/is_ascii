@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-linux-arm-musleabihf",
+  "name": "@xh-tools/is_ascii-linux-arm-musleabihf",
   "version": "0.0.0",
   "os": [
     "linux"

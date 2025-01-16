@@ -1,5 +1,5 @@
 {
-  "name": "is_ascii-linux-x64-musl",
+  "name": "@xh-tools/is_ascii-linux-x64-musl",
   "version": "0.0.0",
   "os": [
     "linux"
