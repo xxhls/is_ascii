@@ -1,0 +1,15 @@
+{
+  "name": "is_ascii-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "is_ascii.darwin-universal.node",
+  "files": [
+    "is_ascii.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
